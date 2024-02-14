@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/sandy-lee/sandy-lee/master/portfolio_banner.png" alt="lorum impsum">
 
-**sandy-lee/sandy-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data professional with a background in data analysis, analytics, data science and data story telling. I enjoy using data to solve business problems and to make insight more accessible.  
 
 Here are some ideas to get you started:
 
