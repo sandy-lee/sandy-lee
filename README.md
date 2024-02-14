@@ -19,7 +19,7 @@ I'm a data professional with a background in data analysis, analytics, data scie
 - lorum ipsum
 - lorum ipsum
 
-📫 How to reach me: https://www.linkedin.com/in/mrsandylee/
+## 📫 How to reach me: https://www.linkedin.com/in/mrsandylee/
 
 
 
