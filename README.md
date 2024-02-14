@@ -1,4 +1,4 @@
-# Hi, I'm Sandy 👋
+# Hi, I'm Sandy 👋 👨‍💻
 
 <img src="https://raw.githubusercontent.com/sandy-lee/sandy-lee/master/portfolio_banner.png" alt="lorum impsum">
 
