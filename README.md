@@ -1,7 +1,6 @@
-<img src="https://raw.githubusercontent.com/sandy-lee/sandy-lee/master/test_layer.png" alt="lorum impsum">
-
 ### Hi there 👋
 
+<img src="https://raw.githubusercontent.com/sandy-lee/sandy-lee/master/portfolio_banner.png" alt="lorum impsum">
 
 **sandy-lee/sandy-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
