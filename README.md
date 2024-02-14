@@ -9,7 +9,7 @@ I'm a data professional with a background in data analysis, analytics, data scie
 - lorum ipsum
 - lorum ipsum
 
-## 🔭 Data Science:
+## ⚗️ Data Science:
 - lorum ipsum
 - lorum ipsum
 - lorum ipsum
