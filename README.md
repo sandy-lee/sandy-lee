@@ -4,17 +4,17 @@
 
 I'm a data professional with a background in data analysis, analytics, data science and data story telling. I enjoy using data to solve business problems and to make insight more accessible.  Technologies I enjoy working with include Python, Big Query (GCP), Google Analytics (GA4), Looker Studio, Power BI, TensorFlow, most common data science/analysis libraries, Linux and many, many more. Here are some of the most interesting projects I've done either for work or personally: 
 
-🔭 Data Analysis & Analytics:
+## 🔭 Data Analysis & Analytics:
 - lorum ipsum
 - lorum ipsum
 - lorum ipsum
 
-🔭 Data Science:
+## 🔭 Data Science:
 - lorum ipsum
 - lorum ipsum
 - lorum ipsum
 
-🔭 Everything Else:
+## 🔭 Everything Else:
 - lorum ipsum
 - lorum ipsum
 - lorum ipsum
