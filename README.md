@@ -9,13 +9,15 @@ I'm a data professional with a background in data analysis, analytics, data scie
 - [Causal Imoact Testing](https://github.com/sandy-lee/Causal-Impact)
 - [Forecasting](https://github.com/sandy-lee/forecasting)
 - [House Prices](https://github.com/sandy-lee/house_prices)
+- GA4 Dashboard - TO ADD
 ## 🔬 Data Science:
 - [Reverse Engineering Google Pagespeed](https://github.com/sandy-lee/Reverse-Engineering-Google-Pagespeed)
 - [Ethical Recognition of Potential Loan Defaults Through Machine Learning](https://github.com/sandy-lee/Ethical-recognition-of-potential-loan-defaults-through-machine-learning)
 - [Keyword Classifier](https://github.com/sandy-lee/keyword_classifier)
+- Titanic ML project using Lazy Predict - TO ADD
 
 ## 💾 Everything Else:
-- lorum ipsum
+- Web Scraping - To ADD
 - lorum ipsum
 - lorum ipsum
 
