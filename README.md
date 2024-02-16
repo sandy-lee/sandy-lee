@@ -6,7 +6,7 @@ I'm a data professional with a background in data analysis, analytics, data scie
 
 ## 🔭 Data Analysis & Analytics:
 - [San Francisco SQL Dashboard](https://github.com/sandy-lee/San-Francisco-Bike-SQL-Dashboard)
-- [Causal Imoact Testing](https://github.com/sandy-lee/Causal-Impact)
+- [Causal Impact Testing](https://github.com/sandy-lee/Causal-Impact)
 - [Forecasting](https://github.com/sandy-lee/forecasting)
 - [House Prices](https://github.com/sandy-lee/house_prices)
 - GA4 Dashboard - TO ADD
