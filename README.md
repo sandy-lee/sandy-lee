@@ -17,9 +17,9 @@ I'm a data professional with a background in data analysis, analytics, data scie
 - Titanic ML project using Lazy Predict - TO ADD
 
 ## 💾 Everything Else:
-- Web Scraping - To ADD
-- lorum ipsum
-- lorum ipsum
+- Web Scraping - TO ADD
+- Build a Search Engine - TO ADD
+- Linkedin Audience Builder - TO ADD
 
 ## 📫 How to reach me: https://www.linkedin.com/in/mrsandylee/
 
