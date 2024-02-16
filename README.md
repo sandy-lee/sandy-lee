@@ -7,7 +7,7 @@ I'm a data professional with a background in data analysis, analytics, data scie
 ## 🔭 Data Analysis & Analytics:
 - [San Francisco SQL Dashboard](https://github.com/sandy-lee/San-Francisco-Bike-SQL-Dashboard)
 - [Causal Imoact Testing](https://github.com/sandy-lee/Causal-Impact)
-- lorum ipsum
+- [Forecasting](https://github.com/sandy-lee/forecasting)
 
 ## 🔬 Data Science:
 - [Reverse Engineering Google Pagespeed](https://github.com/sandy-lee/Reverse-Engineering-Google-Pagespeed)
