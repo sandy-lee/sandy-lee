@@ -21,6 +21,7 @@ I'm a data professional with a background in data analysis, analytics, data scie
 - Web Scraping - TO ADD
 - Build a Search Engine - TO ADD
 - Linkedin Audience Builder - TO ADD
+- Vision Recognition using CNN - TO ADD
 
 ## 📫 How to reach me: https://www.linkedin.com/in/mrsandylee/
 
