@@ -17,6 +17,7 @@ I'm a data professional with a background in data analysis, analytics, data scie
 
 ## 💾 Everything Else:
 - Build a Search Engine - TO ADD
+- Technical SEO Framework
 
 ## 📫 How to reach me: https://www.linkedin.com/in/mrsandylee/
 
