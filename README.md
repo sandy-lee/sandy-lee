@@ -16,7 +16,7 @@ I'm a data professional with a background in data analysis, analytics, data scie
 - [Keyword Classifier](https://github.com/sandy-lee/keyword_classifier)
 
 ## 💾 Everything Else:
-- [Build a Search Engine](https://github.com/sandy-lee/how_to_build_search_engine)
+- [How to build a Search Engine](https://github.com/sandy-lee/how_to_build_search_engine)
 - Technical SEO Framework
 
 ## 📫 How to reach me: https://www.linkedin.com/in/mrsandylee/
