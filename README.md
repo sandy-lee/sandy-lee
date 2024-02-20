@@ -8,7 +8,7 @@ I'm a data professional with a background in data analysis, analytics, data scie
 - [San Francisco SQL Dashboard](https://github.com/sandy-lee/San-Francisco-Bike-SQL-Dashboard)
 - [Causal Impact Testing](https://github.com/sandy-lee/Causal-Impact)
 - [Forecasting](https://github.com/sandy-lee/forecasting)
-- [House Prices](https://github.com/sandy-lee/house_prices/tree/master)
+- [House Price Analysis](https://github.com/sandy-lee/house_prices/tree/master)
 - [GA4 Implmentations](https://github.com/sandy-lee/ga4_implementations)
 ## 🔬 Data Science:
 - [Reverse Engineering Google Pagespeed](https://github.com/sandy-lee/Reverse-Engineering-Google-Pagespeed)
