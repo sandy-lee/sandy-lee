@@ -17,7 +17,7 @@ I'm a data professional with a background in data analysis, analytics, data scie
 
 ## 💾 Everything Else:
 - [How to build a Search Engine](https://github.com/sandy-lee/how_to_build_search_engine)
-- Technical SEO Framework
+- [Technical SEO Framework](https://github.com/sandy-lee/technical_seo_framework)
 
 ## 📫 How to reach me: https://www.linkedin.com/in/mrsandylee/
 
