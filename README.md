@@ -13,7 +13,7 @@ I'm a data professional with a background in data analysis, analytics, data scie
 ## 🔬 Data Science:
 - [Reverse Engineering Google Pagespeed](https://github.com/sandy-lee/Reverse-Engineering-Google-Pagespeed) - a machine learning approach to understanding Google Page Speed for top web queries
 - [Ethical Recognition of Potential Loan Defaults Through Machine Learning](https://github.com/sandy-lee/Ethical-recognition-of-potential-loan-defaults-through-machine-learning) - a classification problem using a common dataset
-- [Keyword Classifier](https://github.com/sandy-lee/keyword_classifier) - a pre-ChatGPT project to show how machine learning can be used to classify keyword
+- [Keyword Classifier](https://github.com/sandy-lee/keyword_classifier) - a pre-ChatGPT project to show how machine learning can be used to classify keywords
 
 ## 💾 Everything Else:
 - [How to build a Search Engine](https://github.com/sandy-lee/how_to_build_search_engine) - a rudimentary attempt to build a search engine using a simple model pre-ChatGPT
